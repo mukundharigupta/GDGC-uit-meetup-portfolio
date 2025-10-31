@@ -152,7 +152,7 @@
   },
   "social": [
     { "name": "GitHub", "icon": "code", "url": "#" },
-    { "name":L "LinkedIn", "icon": "business_center", "url": "#" },
+    { "name": "LinkedIn", "icon": "business_center", "url": "#" },
     { "name": "Twitter", "icon": "close", "url": "#" },
     { "name": "Instagram", "icon": "photo_camera", "url": "#" }
   ],
